@@ -9,8 +9,6 @@
 
 Cuenta con una interfaz gráfica (GUI) amigable que permite visualizar los puertos abiertos y los servicios estimados en tiempo real, sin congelar la aplicación durante el proceso.
 
-![Captura de pantalla de la herramienta](ruta/de/tu/imagen_o_gif.png)
-*(¡Sube una captura de tu herramienta funcionando aquí!)*
 
 ## ✨ Características Principales
 * **Alto Rendimiento:** Implementación de colas (`Queue`) y hilos (`Threading`) para concurrencia.
@@ -31,15 +29,15 @@ Este proyecto demuestra el dominio de las siguientes librerías y conceptos:
 ### Opción A: Ejecutar desde código fuente
 1.  Clona este repositorio:
     ```bash
-    git clone [https://github.com/TU_USUARIO/PyScanGUI.git](https://github.com/TU_USUARIO/PyScanGUI.git)
+    git clone [https://github.com/paulocarde/nmap-scanner.git](https://github.com/paulocarde/nmap-scanner.git)
     ```
 2.  Navega a la carpeta:
     ```bash
-    cd PyScanGUI
+    cd nmap-scanner
     ```
 3.  Ejecuta el script:
     ```bash
-    python scanner_gui.py
+    python scanner.py
     ```
 
 ### Opción B: Usar el Ejecutable (Windows)
@@ -52,5 +50,4 @@ Esta herramienta ha sido creada con fines **estrictamente educativos** y para pr
 El autor no se hace responsable del mal uso que se le pueda dar. Escanear redes sin permiso es un delito.
 
 ---
-**Desarrollado por [Tu Nombre]**
-[LinkedIn](Tu Link) | [Portfolio](Tu Link)
+**Desarrollado por Cristhiam Paulo Cardenas Pantoja**
